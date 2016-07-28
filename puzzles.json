@@ -5,6 +5,11 @@
         "answer": "1.Qa4 Bb7 2.d5"
     },
     {
+        "name": "chess.com 7/26/2016 - Two Threats In One Move",
+        "fen": "5r1k/p3Q3/6p1/3Pb2p/4q3/7P/P5P1/2R3NK b - - 0 1",
+        "answer": "1.Qf4 2.Qa3 Qh2#"
+    },
+    {
         "name": "chess.com 7\/26\/2016 - Three Threats in One Move",
         "fen": "8\/2r2ppk\/7p\/5b2\/1n6\/4Q2P\/5PP1\/5NK1 w - - 0 1",
         "answer": "1.Qf4"
@@ -18,6 +23,11 @@
         "name": "chess.com 7\/24\/2016 - Attack And Defense",
         "fen": "k3r3\/1p5p\/pQ1p2p1\/5p2\/5P2\/4q1P1\/PP6\/K1R5 w - - 0 1",
         "answer": "1.Rc8+ Rxc8 2.Qxe3"
+    },
+    {
+        "name": "chess.com 6/17/2016 - Uncovering Lines",
+        "fen": "r4k2/pppb1Pp1/2np3p/2b5/2B2Bnq/2N5/PP2Q1PP/4RR1K w - - 0 1",
+        "answer": "1.Qe8+ Rxe8 2.fxe8=Q+ Bxe8 3.Bxd6#"
     },
     {
         "name": "chess.com 7\/23\/2016 - Kamikaze Chess",
@@ -187,6 +197,6 @@
     {
         "name": "chess.com 6\/19\/2016 - Infiltration Has Occurre",
         "fen": "r2qr3\/2pbb1k1\/p1p5\/2P3p1\/3Pp1p1\/1Q2P1P1\/PP1B1PK1\/R6R w - - 0 1",
-        "answer": "1.Rh7+ Kxh7 2.Qf7+ Kh8"
+        "answer": "1.Rh7+ Kxh7 2.Qf7+ Kh8 3.Rh1#"
     }
 ]

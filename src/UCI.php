@@ -6,6 +6,7 @@ use Ryanhs\Chess\Chess;
 
 class UCI {
 
+	// this code modified from https://github.com/antiproton/Web-GUI-for-stockfish-chess
 	public static function get_move($engine, $fen, $depth){
 		$descriptorspec = array(
 			0 => array("pipe","r"),
@@ -36,6 +37,7 @@ class UCI {
 		return $reply;
 	}
 
+	// this code modified from https://github.com/antiproton/Web-GUI-for-stockfish-chess
 	public static function interact_with_engine($stdin, $stdout, $fen, $depth){
 		fwrite($stdin, "uci\n");
 		usleep(100000);

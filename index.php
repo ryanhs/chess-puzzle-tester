@@ -5,8 +5,6 @@ use Ryanhs\Chess\Chess;
 use Main\DB;
 use Main\UCI;
 
-$depth = 5;
-
 $engines = DB::loadEngines();
 $puzzles = DB::loadPuzzles();
 
@@ -19,7 +17,6 @@ foreach ($engines as $engine) {
 			echo PHP_EOL.str_repeat("=", 40).PHP_EOL;
 			echo "Engine\t: #".$engine->id.' '.$engine->name.PHP_EOL;
 			echo "Puzzle\t: #".$puzzle->id.' '.$puzzle->name.PHP_EOL;
-			echo "Depth\t: ".$depth.PHP_EOL;
 
 			$answer = Chess::parsePgn($puzzle->answer)['moves'];
 			$depth = count($answer);
@@ -35,10 +32,11 @@ foreach ($engines as $engine) {
 				$depth = count($trueAnswer);
 				echo "-- debug: pgn answer repaired...".PHP_EOL;
 			}
+			echo "Depth\t: ".$depth.PHP_EOL;
 
 			echo PHP_EOL.'-Answer'.PHP_EOL;
 			echo "True\t: ".$puzzle->answer.PHP_EOL;
-
+			// continue;
 
 			$engine_answers = [];
 			for ($depth_plus_n = 0; $depth_plus_n <= 3; $depth_plus_n++) {
