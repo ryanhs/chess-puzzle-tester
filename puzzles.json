@@ -1,0 +1,192 @@
+[
+    {
+        "name": "chess.com 7\/27\/2016 - Dual Threats",
+        "fen": "r2qk2r\/p1p2ppp\/bpnp1n2\/4p3\/2PPP3\/P1PBBP2\/6PP\/R2QK1NR w KQkq - 0 1",
+        "answer": "1.Qa4 Bb7 2.d5"
+    },
+    {
+        "name": "chess.com 7\/26\/2016 - Three Threats in One Move",
+        "fen": "8\/2r2ppk\/7p\/5b2\/1n6\/4Q2P\/5PP1\/5NK1 w - - 0 1",
+        "answer": "1.Qf4"
+    },
+    {
+        "name": "chess.com 7\/25\/2016 - What Must Be Done",
+        "fen": "8\/8\/1P6\/3pp3\/1B3bk1\/6p1\/6K1\/8 w - - 0 1",
+        "answer": "1.Bd2 Bxd2 2.b7"
+    },
+    {
+        "name": "chess.com 7\/24\/2016 - Attack And Defense",
+        "fen": "k3r3\/1p5p\/pQ1p2p1\/5p2\/5P2\/4q1P1\/PP6\/K1R5 w - - 0 1",
+        "answer": "1.Rc8+ Rxc8 2.Qxe3"
+    },
+    {
+        "name": "chess.com 7\/23\/2016 - Kamikaze Chess",
+        "fen": "k1B1r3\/5pp1\/ppRQ4\/q7\/P7\/7P\/1b4P1\/6K1 w - - 0 1",
+        "answer": "1.Rc3 Re1+ 2.Kf2 Qxc3 3.Qd5+ Qc6 4.Qxc6+"
+    },
+    {
+        "name": "chess.com 7\/22\/2016 - Not Just Surviving, Winning",
+        "fen": "2r1k3\/1p3pQ1\/4bBpp\/4P3\/1Pp4P\/4b1q1\/5RB1\/5RK1 w - - 0 1",
+        "answer": "1.Kh1 Bxf2 2.Rd1 Qxh4+ 3.Bxh4"
+    },
+    {
+        "name": "chess.com 7\/21\/2016 - 1001 Brilliant ways to Checkmate by Reinfeld, #393",
+        "fen": "r2B2k1\/pp3rpp\/nbp2p2\/5N2\/8\/3R4\/PPP3PP\/2K1R3 w - - 0 1",
+        "answer": "1.Re8+ Rf8 2.Nh6+ gxh6 3.Rg3+ Kf7 4.Re7#"
+    },
+    {
+        "name": "chess.com 7\/20\/2016 - Sealing The Deal",
+        "fen": "3r4\/pbr3pp\/1p3p2\/1Pk1p3\/P1p5\/K1P1PP2\/2RN2PP\/3R4 w - - 0 1",
+        "answer": "1.Ne4+ Bxe4 2.Rxd8 Bxc2 3.e4"
+    },
+    {
+        "name": "chess.com 7\/19\/2016 - Sometimes A Draw Is Good",
+        "fen": "8\/8\/8\/r1p3pp\/2P2k2\/2PK1P2\/4R3\/8 w - - 0 1",
+        "answer": "1.Ra2"
+    },
+    {
+        "name": "chess.com 7\/18\/2016 - Usachy - Golyak, Cheljabinsk, 1959",
+        "fen": "rnb2rk1\/pp3ppp\/3Q4\/2p1B3\/2q1N3\/8\/PP3PPP\/R3K2R w KQ - 0 1",
+        "answer": "1.Nf6+ gxf6 2.Qxf6"
+    },
+    {
+        "name": "chees.com 7\/17\/2016 - Opening Cracks",
+        "fen": "rnbqkbnr\/p2pp1p1\/1p3p2\/2p4p\/4P3\/5N2\/PPPPBPPP\/RNBQK2R w KQkq - 0 1",
+        "answer": "1.Ne5 g6 2.Nxg6"
+    },
+    {
+        "name": "chess.com 7\/16\/2016 - Cracking The Nut",
+        "fen": "rnq1r1k1\/3bbp1p\/p5pQ\/PppNp3\/2P1P3\/3N2P1\/1P4BP\/R4RK1 w - - 0 1",
+        "answer": "1.Rxf7 Kxf7 2.Qxh7+ Ke6 3.Qxg6+ Bf6 4.Qxf6#"
+    },
+    {
+        "name": "chess.com 7\/15\/2016 - Mate over Material",
+        "fen": "1rq3nr\/2p1k1pp\/p2b4\/3BN1p1\/P1p5\/6P1\/1P2QP1P\/R3R1K1 w - - 0 1",
+        "answer": "1.Nd7+ Be5 2.Qxe5+ Kxd7 3.Qe6+ Kd8 4.Qe8#"
+    },
+    {
+        "name": "chess.com 7\/13\/2016 - (K)night Time",
+        "fen": "4NN2\/8\/8\/6Pk\/8\/5nK1\/8\/8 w - - 0 1",
+        "answer": "1.g6 Nh4 2.Ng7+ Kg5 3.Nge6+ Kh5 4.Nf4+ Kg5 5.Nh7+"
+    },
+    {
+        "name": "chess.com 7\/12\/2016 - Stretching The Defense",
+        "fen": "rnbqkb1r\/pp5p\/2p3p1\/4Pn2\/4pB2\/1B6\/PPP2PPP\/RN1Q1RK1 w kq - 0 1",
+        "answer": "1.Bf7+ Kxf7 2.Qxd8"
+    },
+    {
+        "name": "chess.com 7\/11\/2016 - Slow And Steady",
+        "fen": "r4B1k\/p4p1p\/n4Np1\/8\/q2p2Q1\/8\/PP3PPP\/R5K1 w - - 0 1",
+        "answer": "1.Qh4 h5 2.Qg5 Qd1+ 3.Rxd1 Rxf8 4.Qh6#"
+    },
+    {
+        "name": "chess.com 7\/10\/2016 - Desperation",
+        "fen": "8\/1k6\/7R\/8\/K7\/4r3\/8\/1q6 w - - 0 1",
+        "answer": "1.Rb6+"
+    },
+    {
+        "name": "chess.com 7\/9\/2016 - 1 Step, 2 Step, 3 Step, 4 Step",
+        "fen": "8\/3R4\/4Q3\/kp6\/5q2\/8\/PPK5\/8 w - - 0 1",
+        "answer": "1.b4+ Kxb4 2.a3+ Kc5 3.Rd5+ Kc4 4.Qc6#"
+    },
+    {
+        "name": "chess.com 7\/8\/2016 - Ivanovic-Popov, Yugoslavia 1973",
+        "fen": "7k\/2p1q2p\/3p2pP\/8\/4bQ2\/1BP5\/1P4P1\/6K1 w - - 0 1",
+        "answer": "1.Be6 Bf5 2.Qd4+"
+    },
+    {
+        "name": "chess.com 7\/7\/2016 - Adding Pressure",
+        "fen": "1r2r1k1\/p6p\/4b1p1\/2p1R3\/3p4\/3P2P1\/P1P3BP\/5RK1 w - - 0 1",
+        "answer": "1.Rxe6 Rxe6 2.Bd5 Rb6 3.Rf6"
+    },
+    {
+        "name": "chess.com 7\/6\/2016 - Misleading The Enemy",
+        "fen": "2b2rk1\/p1q3pp\/2P5\/4pp2\/Q7\/5B2\/Pr3PPP\/R4RK1 w - - 0 1",
+        "answer": "1.Bd5+ Kh8 2.Qa3"
+    },
+    {
+        "name": "chess.com 7\/5\/2016 - Saving The Draw",
+        "fen": "8\/4K3\/8\/3k4\/8\/1N1B4\/6p1\/8 w - - 0 1",
+        "answer": "1.Bc4+ Kxc4 2.Nd2+ Kd3 3.Nf3"
+    },
+    {
+        "name": "chess.com 7\/4\/2016 - Passer",
+        "fen": "8\/2p1q1pk\/1p5p\/1P3P2\/8\/5bP1\/1BQ4P\/6K1 w - - 0 1",
+        "answer": "1.f6+ Qe4 2.Qxe4+ Bxe4 3.f7"
+    },
+    {
+        "name": "chess.com 7\/3\/2016 - One Too Many",
+        "fen": "1k6\/2q5\/pp6\/P6p\/5Qp1\/6P1\/7K\/8 w - - 0 1",
+        "answer": "1.axb6 Qxf4 2.gxf4 Kb7 3.f5 Kxb6 4.f6"
+    },
+    {
+        "name": "chess.com 7\/2\/2016 - Busnardo - NN, 1590",
+        "fen": "r1b3nr\/pppk2qp\/1bnp4\/4p1BQ\/2BPP3\/2P5\/PP3PPP\/RN3RK1 w - - 0 1",
+        "answer": "1.Be6+ Kxe6 2.Qe8+ Nge7 3.d5#"
+    },
+    {
+        "name": "chess.com 7\/1\/2016 - Unusual Placement",
+        "fen": "2b1r1k1\/r1q2ppp\/p3pb2\/8\/8\/B2B1Q2\/P1P2PPP\/3RR1K1 w - - 0 1",
+        "answer": "1.Qf5"
+    },
+    {
+        "name": "chess.com 6\/30\/2016 - Boxed In With Nowhere To Go",
+        "fen": "4rk2\/4rb2\/3Q1B2\/3B4\/6RK\/8\/8\/8 w - - 0 1",
+        "answer": "1.Bg7+ Kg8 2.Bf8+ Kxf8 3.Qh6#"
+    },
+    {
+        "name": "chess.com 6\/29\/2016 - Danner - Schnabel Hradec Kralove 1992",
+        "fen": "r4bk1\/p4p2\/Bpbr2p1\/n2Np3\/1Q2P1q1\/4B1P1\/7P\/3R1RK1 w - - 0 1",
+        "answer": "1.Qxd6 Bxd6 2.Nf6+ Kg7 3.Nxg4"
+    },
+    {
+        "name": "chess.com 6\/28\/2016 - Favorable Exchanges",
+        "fen": "5rk1\/pp2Q1p1\/7p\/3p4\/3P1pq1\/2P1p1P1\/P2nP2P\/2R2RK1 w - - 0 1",
+        "answer": "1.Qxf8+ Kxf8 2.Rxf4+ Qxf4 3.gxf4"
+    },
+    {
+        "name": "chess.com 6\/27\/2016 - Clutter Leads to Failure",
+        "fen": "r1bqkbnr\/pppnppp1\/7p\/6N1\/3Pp3\/8\/PPP2PPP\/RNBQKB1R w KQkq - 0 1",
+        "answer": "1.Ne6 fxe6 2.Qh5+ g6 3.Qxg6#"
+    },
+    {
+        "name": "chess.com 6\/26\/2016 - Classic Trick",
+        "fen": "r2qkb1r\/pp2pppp\/5n2\/2pPn3\/4P1b1\/5N2\/PP3PPP\/RNBQKB1R w KQkq - 0 1",
+        "answer": "1.Nxe5 Bxd1 2.Bb5+ Nd7 3.Bxd7+ Qxd7 4.Nxd7 Kxd7 5.Kxd1"
+    },
+    {
+        "name": "chess.com 6\/25\/2016 - Tal - Karpov, Belgium 1987, missed opportunity",
+        "fen": "2rnr2k\/ppq1p1bp\/8\/6Bp\/3pN3\/1BP5\/P3QPP1\/4R1K1 w - - 0 1",
+        "answer": "1.Nf6 Rf8 2.Nxh7 Rf5 3.Qxh5"
+    },
+    {
+        "name": "chess.com 6\/24\/2016 - Precision and Accuracy",
+        "fen": "3r4\/7p\/p5pk\/1p2Qp2\/3n1P2\/1P1qN1P1\/P6P\/4R1K1 w - - 0 1",
+        "answer": "1.Ng4+ fxg4 2.Qg5+ Kg7 3.Qe7+ Kh6 4.Qh4+ Kg7 5.Re7+ Kg8 6.Qxh7+"
+    },
+    {
+        "name": "chess.com 6\/23\/2016 - Step By Step Mating",
+        "fen": "7r\/7r\/2p4p\/3p1R2\/PP2p3\/2P5\/2P1k1P1\/2K2R2 w - - 0 1",
+        "answer": "1.R5f2+ Ke3 2.Kd1 Rf7 3.Re2#"
+    },
+    {
+        "name": "chess.com 6\/22\/2016 - Upward And Onward",
+        "fen": "8\/1p1n1r1k\/pqn1RpNp\/8\/2p2Q1P\/1P4P1\/P1B4K\/8 w - - 0 1",
+        "answer": "1.Ne7+ Kg7 2.Qg4+ Kh8 3.Qg8#"
+    },
+    {
+        "name": "chess.com 6\/21\/2016 - A Timeless Trick",
+        "fen": "3qkb1r\/rbp2ppp\/1p6\/p3p3\/2B5\/B7\/PPP2PPP\/R2Q1RK1 w k - 0 1",
+        "answer": "1.Bxf7+ Kxf7 2.Qxd8"
+    },
+    {
+        "name": "chess.com 6\/20\/2016 - Tricky Draw",
+        "fen": "1k6\/R7\/K7\/8\/8\/8\/2p5\/8 w - - 0 1",
+        "answer": "1.Rb7+ Kc8 2.Rb5 c1=Q 3.Rc5+ Qxc5"
+    },
+    {
+        "name": "chess.com 6\/19\/2016 - Infiltration Has Occurre",
+        "fen": "r2qr3\/2pbb1k1\/p1p5\/2P3p1\/3Pp1p1\/1Q2P1P1\/PP1B1PK1\/R6R w - - 0 1",
+        "answer": "1.Rh7+ Kxh7 2.Qf7+ Kh8"
+    }
+]

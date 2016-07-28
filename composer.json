@@ -1,0 +1,17 @@
+{
+    "name": "ryanhs/puzzle",
+    "authors": [
+        {
+            "name": "ryan hs",
+            "email": "mr.ryansilalahi@gmail.com"
+        }
+    ],
+    "require": {
+        "ryanhs/chess.php": "^1.0"
+    },
+    "autoload": {
+		"psr-4": {
+			"Main\\": "src/"
+		}
+	}
+}
