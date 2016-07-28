@@ -5,14 +5,14 @@
         "answer": "1.Qa4 Bb7 2.d5"
     },
     {
-        "name": "chess.com 7/26/2016 - Two Threats In One Move",
-        "fen": "5r1k/p3Q3/6p1/3Pb2p/4q3/7P/P5P1/2R3NK b - - 0 1",
-        "answer": "1.Qf4 2.Qa3 Qh2#"
+        "name": "chess.com 6/15/2016 - Raking The Board",
+        "fen": "r1b2r2/ppb1qpkB/2p5/2Pp2Pp/5P2/2N1P3/PPQB4/2KR4 w - - 0 1",
+        "answer": "1.Nxd5 cxd5 2.Bc3+"
     },
     {
-        "name": "chess.com 7\/26\/2016 - Three Threats in One Move",
-        "fen": "8\/2r2ppk\/7p\/5b2\/1n6\/4Q2P\/5PP1\/5NK1 w - - 0 1",
-        "answer": "1.Qf4"
+        "name": "chess.com 6/15/2016 - Going For It",
+        "fen": "2rqnrk1/pp3ppp/1b1p4/3p2Q1/2n1P3/3B1P2/PB2NP1P/R5RK w - - 0 1",
+        "answer": "1.Qxg7+ Nxg7 2.Rxg7+ Kh8 3.Rg8+ Kxg8 4.Rg1+ Qg5 5.Rxg5#"
     },
     {
         "name": "chess.com 7\/25\/2016 - What Must Be Done",
