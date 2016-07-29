@@ -13,5 +13,5 @@ this project created to evaluate engine behave with given puzzle
 
 ###### notes
 ~ no duplicate data/process  
-~ but currently its only support white move first :-p
+~ but currently its only support white move first :-p  
 ~ some code modified from https://github.com/antiproton/Web-GUI-for-stockfish-chess
