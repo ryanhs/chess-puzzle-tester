@@ -96,6 +96,8 @@ foreach ($engines as $engine) {
 				'answer_depth_plus_2' => $engine_answers[2],
 				'answer_depth_plus_3' => $engine_answers[3],
 			]);
+
+			system("killall -q donna-4.0-linux-64");
 		}
 
 	}
